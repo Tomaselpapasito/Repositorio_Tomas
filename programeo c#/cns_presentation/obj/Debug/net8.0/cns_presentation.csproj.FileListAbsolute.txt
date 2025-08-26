@@ -1,0 +1,15 @@
+d:\Repositorio_Tomas\programeo c#\cns_presentation\obj\Debug\net8.0\cns_presentation.GeneratedMSBuildEditorConfig.editorconfig
+d:\Repositorio_Tomas\programeo c#\cns_presentation\obj\Debug\net8.0\cns_presentation.AssemblyInfoInputs.cache
+d:\Repositorio_Tomas\programeo c#\cns_presentation\obj\Debug\net8.0\cns_presentation.AssemblyInfo.cs
+d:\Repositorio_Tomas\programeo c#\cns_presentation\obj\Debug\net8.0\cns_presentation.csproj.CoreCompileInputs.cache
+d:\Repositorio_Tomas\programeo c#\cns_presentation\obj\Debug\net8.0\cns_presentation.sourcelink.json
+d:\Repositorio_Tomas\programeo c#\cns_presentation\bin\Debug\net8.0\cns_presentation.exe
+d:\Repositorio_Tomas\programeo c#\cns_presentation\bin\Debug\net8.0\cns_presentation.deps.json
+d:\Repositorio_Tomas\programeo c#\cns_presentation\bin\Debug\net8.0\cns_presentation.runtimeconfig.json
+d:\Repositorio_Tomas\programeo c#\cns_presentation\bin\Debug\net8.0\cns_presentation.dll
+d:\Repositorio_Tomas\programeo c#\cns_presentation\bin\Debug\net8.0\cns_presentation.pdb
+d:\Repositorio_Tomas\programeo c#\cns_presentation\obj\Debug\net8.0\cns_presentation.dll
+d:\Repositorio_Tomas\programeo c#\cns_presentation\obj\Debug\net8.0\refint\cns_presentation.dll
+d:\Repositorio_Tomas\programeo c#\cns_presentation\obj\Debug\net8.0\cns_presentation.pdb
+d:\Repositorio_Tomas\programeo c#\cns_presentation\obj\Debug\net8.0\cns_presentation.genruntimeconfig.cache
+d:\Repositorio_Tomas\programeo c#\cns_presentation\obj\Debug\net8.0\ref\cns_presentation.dll
